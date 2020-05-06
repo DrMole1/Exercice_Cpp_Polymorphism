@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolymorphismeFigure", "PolymorphismeFigure.vcxproj", "{DD6FA8EA-699F-417B-A05B-712023CD4A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Debug|x64.ActiveCfg = Debug|x64
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Debug|x64.Build.0 = Debug|x64
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Debug|x86.Build.0 = Debug|Win32
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Release|x64.ActiveCfg = Release|x64
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Release|x64.Build.0 = Release|x64
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Release|x86.ActiveCfg = Release|Win32
+		{DD6FA8EA-699F-417B-A05B-712023CD4A67}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDABD352-F7D7-4B06-826F-A4A89723ADC6}
+	EndGlobalSection
+EndGlobal
